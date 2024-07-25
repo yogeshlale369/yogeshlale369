@@ -1,5 +1,4 @@
-![Header](./header.png)
-<h1 align="center">Hi 👋, I'm Yogesh Lale</h1>
+![Header](./header2.png)
 <h3 align="center">Passionate Machine Learning Engineer specializing in developing innovative AI solutions, with experience in building and deploying predictive models, working with large datasets, and implementing deep learning algorithms to solve real-world problems.</h3>
 
 - 🌱 I’m currently learning **Cloud Computing and DevOps**
